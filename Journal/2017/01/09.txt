@@ -16,12 +16,17 @@ and has better support for openCV
 the team has not come to any official decision as far as am aware.
 
 now about the git repositories 
+our team is deciding what to do with the git repos 
 our mentor which cant remember his name showed  us a different way to run our  git repos 
-our team is currently  deciding how to approach the git repos. 
+here is a picture involving his plan
+{{./IMG_20170109_170125.jpg?width=100}}
+
+
 demetri which is the build master. offered a another that involving rotating the yearly folders 
 to an archive
 
 from the team reaction I believe we are in favor of the mentors plan
+I beleived that i had a pictur
 
 Issac (one of the  8th graders) started to learn about version control systems
 I am not sure how much he got out of the talking about the mentors plan.
