@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-10T15:42:57-08:00
+
+====== Tuesday 10 Jan 2017 ======
+
+03:10pm - nathan wants multiple cameras
+i talked to lance yesterday and he told me that we have working code for the test robot.
+nathan agrees that we should use a rasberry pi.
+nathan got distracted by his science project.
+
+03:31pm - teaching nathan w how to use git hub
+i realized that we have two nathans so i have decided to call one of them stanley
+ 
+03:32pm - carter(white shoes) and tristan (flying hair)
+
+carter doesnt really know how to program. 
+he understand variables and printing to the console as well as getting input. 
+
+tristan knows alot about programming. 	
+
+04:33pm - brayton thinks that should be writing the camera code in python.
+i also forget that lance said that we should be running the code on the roborio.
+ 
+
+we need a new programming laptop that is under 600 dollars
