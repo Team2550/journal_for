@@ -22,5 +22,17 @@ tristan knows alot about programming.
 04:33pm - brayton thinks that should be writing the camera code in python.
 i also forget that lance said that we should be running the code on the roborio.
  
+nathan said that we needed a new programming laptop that is under 600 dollars.
+my guess is that we dont actually need that new laptop.
+we just need to fix the inconsistencent development enviroment.
 
-we need a new programming laptop that is under 600 dollars
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-12T19:50:32-08:00
+
+====== Thursday 12 Jan 2017 ======
+**non meeting entry!!!**
+07:50pm - notes on new development enviroment
+
+
+12:38am - i know that we need codeblocks and eclipse and also git and the git gui's 
+since most of this can be installed with just an install script.
+i was going to try this on the of my flash drives.
+but since i dont have a flash drive that is 8gb big i am going to have to buy one.
+the current problem with the existing flash drive is that the sources list for downloading
+ new packages has been destroyed. thus making that install script pretty much useless
+and i have to consider reinstalling the operating system on already most working flash drive.
+
+
+hopefully we be able to get working install scripts soon.
+brayton blames me for the sources list not working but i am absoutley certain that my install script had nothing todo with the sources list breaking.
